@@ -1,8 +1,8 @@
 <p align="center">
-    <img src="./assets/img/encriptador.gif" max-width="800">
+    <img src="./assets/img/encriptador.gif" max-width="500">
 </p>
  
- <h1>Challenge ONE Sprint 01: Decodificador de texto com Javascript</h1>
+ <h1>Challenge Alura: Decodificador de texto com Javascript</h1>
 
 <p>
   Este é um aplicativo simples de criptografia de mensagens, desenvolvido em JavaScript e HTML/CSS. O aplicativo permite que você criptografe e descriptografe mensagens usando diferentes técnicas de criptografia.
